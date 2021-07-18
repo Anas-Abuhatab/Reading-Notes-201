@@ -18,18 +18,18 @@
 * The id attribute is known as a global attribute because it can be used on any element.
 * Examples of block elements are `<h1>, <p>, <ul>, and <li>`.
 * Examples of inline elements are`<a>, <b>, <em>, and <img>`.
-* The <div> element allows you to group a set of elements together in one block-level box.
-* The <span> element allows you to group a set of elements together in one block-level box.
+* The `<div>` element allows you to group a set of elements together in one block-level box.
+* The `<span>` element allows you to group a set of elements together in one block-level box.
 * An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 >Example`<iframe src="http://maps.google.co.uk/maps?q=moma+new+york &amp;output=embed" width="450" height="350" frameborder="0" scrolling="no" seamless; </iframe> `
 ![meta example](https://github.com/Anas-Abuhatab/Reading-Notes-201/blob/main/meta.PNG?raw=true)
 
-* The <meta> tag allows you to supply all kinds of information about your web page.
+* The `<meta>` tag allows you to supply all kinds of information about your web page.
 * Escape characters are used to include special characters in your pages such as <, >, and ©.
 
 ### HTML CH#17(HTML5 Layout) Summary: 
 
-* The <section> element should not be used as a wrapper for the entire page (unless the page only contains one distinct piece of content). If you want a containing element for the entir page, that job is still best left to the <div> element.
+* The `<section>` element should not be used as a wrapper for the entire page (unless the page only contains one distinct piece of content). If you want a containing element for the entir page, that job is still best left to the `<div>` element.
 * IE9 was the first version of Internet Explorer to allow CSS rules to be associated with these new HTML5 layout elements. In order to style these elements using earlier versions of IE, you need to use a simple JavaScript known as the** HTML5 shiv or HTML5 shim**.
 * HTML5 block elements:header, section, footer, aside, nav, article, figure, figcaption, hgroup, div.
 * To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google. 
@@ -52,6 +52,6 @@
 * To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
 * It is best to keep JavaScript code in its own JavaScript
 file.
-* JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension.
-* The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
+* JavaScript files are text files (like HTML pages and CSS style sheets), but they have the .js extension.
+* The HTML `<script>` element is used in HTML pages to tell the browser to load the JavaScript file (rather like the `<link>` element can be used to load a CSS file).
 * If you view the source code of the page in the browser the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
