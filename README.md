@@ -12,4 +12,4 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 3-|class-03|[HTML Lists, Control Flow with JS, and the CSS Box Model](https://anas-abuhatab.github.io/Reading-Notes-201/class-03)
 4-|class-04|[HTML Links, JS Functions, and Intro to CSS Layout](https://anas-abuhatab.github.io/Reading-Notes-201/class-04)
 5-|class-05|[HTML Images; CSS Color & Text](https://anas-abuhatab.github.io/Reading-Notes-201/class-05)
-6-|class-05|[HTML Links, JS Functions, and Intro to CSS Layout](https://anas-abuhatab.github.io/Reading-Notes-201/class-06)
+6-|class-05|[JS Object Literals; The DOM](https://anas-abuhatab.github.io/Reading-Notes-201/class-06)
