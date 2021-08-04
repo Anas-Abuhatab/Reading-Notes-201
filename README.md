@@ -14,4 +14,5 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 5-|class-05|[HTML Images; CSS Color & Text](https://anas-abuhatab.github.io/Reading-Notes-201/class-05)
 6-|class-06|[JS Object Literals; The DOM](https://anas-abuhatab.github.io/Reading-Notes-201/class-06)
 7-|class-07|[HTML Tables; JS Constructor Functions](https://anas-abuhatab.github.io/Reading-Notes-201/class-07)
-7-|class-08|[More CSS Layout](https://anas-abuhatab.github.io/Reading-Notes-201/class-08)
+8-|class-08|[More CSS Layout](https://anas-abuhatab.github.io/Reading-Notes-201/class-08)
+9-|class-09|[Forms and Events](https://anas-abuhatab.github.io/Reading-Notes-201/class-09)
