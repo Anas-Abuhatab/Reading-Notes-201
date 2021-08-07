@@ -17,3 +17,4 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 8-|class-08|[More CSS Layout](https://anas-abuhatab.github.io/Reading-Notes-201/class-08)
 9-|class-09|[Forms and Events](https://anas-abuhatab.github.io/Reading-Notes-201/class-09)
 10-|class-10|[JS Debugging](https://anas-abuhatab.github.io/Reading-Notes-201/class-10)
+11-|class-11|[Assorted Topics](https://anas-abuhatab.github.io/Reading-Notes-201/class-11)
