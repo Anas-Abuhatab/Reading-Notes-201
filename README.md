@@ -1,9 +1,6 @@
 # Reading-Notes-201
 
-
 My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like software development and I hope I learn new skills to be Full Stack Developer.
-
-
 
 ---|Name|link
 ---|---|---
@@ -18,3 +15,4 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 9-|class-09|[Forms and Events](https://anas-abuhatab.github.io/Reading-Notes-201/class-09)
 10-|class-10|[JS Debugging](https://anas-abuhatab.github.io/Reading-Notes-201/class-10)
 11-|class-11|[Assorted Topics](https://anas-abuhatab.github.io/Reading-Notes-201/class-11)
+12-|class-12|[Docs for the HTML <canvas> Element & Chart.js](https://anas-abuhatab.github.io/Reading-Notes-201/class-12)
