@@ -16,3 +16,4 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 10-|class-10|[JS Debugging](https://anas-abuhatab.github.io/Reading-Notes-201/class-10)
 11-|class-11|[Assorted Topics](https://anas-abuhatab.github.io/Reading-Notes-201/class-11)
 12-|class-12|[Docs for the HTML `<canvas>` Element & Chart.js](https://anas-abuhatab.github.io/Reading-Notes-201/class-12)
+13-|class-13|[THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](https://anas-abuhatab.github.io/Reading-Notes-201/class-13)
